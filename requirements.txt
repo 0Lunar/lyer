@@ -1,0 +1,2 @@
+pycryptodome
+mysql-connector-python
